@@ -1,2 +1,2 @@
 # OOP
-Proiecte OOP din anul 1, semestrul 2
+Proiecte OOP - FMI, Unibuc, Anul 1, Semestrul 2
